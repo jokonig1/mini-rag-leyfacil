@@ -1,0 +1,61 @@
+TÍTULO: Licencias médicas
+FUENTE: https://www.bcn.cl/portal/leyfacil/recurso/licencias-medicas
+
+¿Qué es una licencia médica? Es un documento que puede ser extendido solo por un médico cirujano, cirujano-dentista o matrona que se encuentre inscrito y legalmente habilitado en el Registro Nacional de Prestadores Individuales de Salud que dispone la Superintendencia de Salud. En el caso de los médicos cirujanos que hayan obtenido o revalidado su título a partir del 19 de abril de 2009, se les exige además haber aprobado el examen único nacional de conocimientos de medicina. El profesional certifica mediante la licencia médica que un trabajador o trabajadora se encuentra incapacitado temporalmente para trabajar, y establece un reposo total o parcial, por un lapso determinado, con el fin de atender el restablecimiento de su salud. El requisito de aprobación del examen único nacional de conocimientos de medicina para emitir licencias médicas será exigible a partir de un año de publicada la nueva ley.
+
+¿Quiénes intervienen? La licencia médica, sea en papel o electrónica, es un acto médico administrativo en el que intervienen: el trabajador al cual se le otorga, el profesional habilitado que la emite, el empleador que la tramita, la Compin o Isapre competente, que la autoriza, rechaza o modifica, y la entidad pagadora del subsidio por incapacidad laboral, cuando corresponda.
+
+¿A que beneficios de seguridad social está asociada? En casos de enfermedad o accidente común, dicho documento permite a los trabajadores acceder a un beneficio en dinero que tiene por finalidad cubrir la contingencia económica de un trabajador, ante su incapacidad temporal para trabajar (subsidios por incapacidad laboral). El subsidio opera para los trabajadores dependientes o independientes,  acogidos a algún sistema previsional, que cumplen ciertos requisitos mínimos de afiliación y cotización.
+
+¿Qué es la licencia médica electrónica y como se tramita? Es aquella otorgada y tramitada a través de un documento electrónico. Se materializa en un formulario especial electrónico, que registra todas las certificaciones, resoluciones y autorizaciones que procedan. Se aceptan las licencias en papel solo excepcionalmente, por falta de medios tecnológicos o a la falta de conectividad, o cuando se trate de un profesional autorizado previamente por la respectiva Comisión de Medicina Preventiva e Invalidez (Compin) La licencia electrónica llega directamente al empleador si se encuentra adscrito al sistema. Si no está adscrito, se le entrega una copia al trabajador que deberá entregarla al empleador. Los profesionales habilitados para la emisión de licencias médicas en los casos de atenciones realizadas a distancia o por telemedicina deberán estar también habilitados para realizar dichas atenciones y para usar la plataforma tecnológica que establece la ley de derechos y deberes de los pacientes.
+
+¿Qué es el Registro Nacional de Prestadores Individuales de Salud de la Superintendencia de Salud? Es una nómina que lleva la Superintendencia de Salud, que se puede consultar online, en la que están registrados los profesionales de la salud que pueden ejercer en Chile. Los médicos cirujanos, cirujanos dentistas o matronas que emitan licencias médicas, tendrán el plazo de noventa días corridos, desde la publicación de la nueva ley sobre licencias, para solicitar su inscripción en el Registro Nacional de Prestadores Individuales de Salud de la Superintendencia de Salud, o bien, para modificar, enmendar o complementar los antecedentes vigentes, en el caso de encontrarse incorporados en el referido Registro.
+
+¿Qué son las Compin? Son las Comisiones de Medicina Preventiva e Invalidez. A estas comisiones dependiente del Ministerio de Salud, le corresponde constatar, evaluar, declarar y certificar el estado de salud, la capacidad de trabajo, la recuperabilidad de los estados patológicos de los trabajadores y beneficiarios, con el fin de permitir la obtención de beneficios laborales, asistenciales y o previsionales, como también pecuniarios (pagos en dinero).
+
+¿Qué atribuciones tienen las Compin ante los profesionales que emiten licencias médicas? Las Compin podrán solicitar a los profesionales habilitados para emitir licencias, la entrega o envío de los antecedentes o informes complementarios que las respalden dentro del plazo de diez días hábiles. Si no los entregan se les podrían aplicar multas y suspensiones. En casos excepcionales, y por razones fundadas, las Comisiones podrán citar a los profesionales a una audiencia para aclarar aspectos del otorgamiento de la o las licencias, y podrán ampliar el plazo para entregar los antecedentes o informes complementarios, si corresponde, hasta el máximo de siete días hábiles adicionales.
+
+¿Qué pasa si el profesional no entrega los antecedentes? Si el profesional no entrega los antecedentes o informes solicitados dentro del plazo o aquellos fueren insuficientes, o no asista injustificadamente a las citaciones, la Comisión mediante resolución fundada aplicará la sanción de multa a beneficio fiscal de entre 10 y 50 unidades tributarias mensuales. En casos calificados, la Comisión podrá, además, suspender la venta de formularios de licencias médicas y la facultad de emisión de licencias médicas electrónicas o de papel, según corresponda, por el plazo de hasta 30 días hábiles, medida que se renovará automáticamente mientras persista la conducta del profesional. En el evento de existir antecedentes que acrediten que el profesional ha incurrido en falsedad en el otorgamiento de licencias médicas, las Comisiones deberán remitir, sin más trámite, los antecedentes al Ministerio Público (Fiscalía), que investigará eventuales delitos.
+
+¿Puede el paciente recurrir ante el rechazo o la modificación de la licencia por el contralor médico de la Isapre o de la Compin? Si un contralor médico rechaza o modifica una licencia sin una justificación que respalde su decisión o sin expresión de causa, el paciente podrá denunciarlo ante la Superintendencia de Seguridad Social. La Superintendencia de Seguridad Social podrá aplicar sanciones considerando la cantidad de licencias médicas rechazadas o modificadas sin justificación o sin expresión de causa. Las sanciones pueden ser desde multas de 7,5 UTM hasta suspensión por un año de la facultad para visar el otorgamiento de licencias médicas en Instituciones de Salud Previsional, y una multa a beneficio fiscal de hasta 60 UTM. En los casos en que la reincidencia la multa podrá ser de hasta 90 unidades tributarias mensuales. El contralor médico de una Compin o de la unidad de licencias médicas que incurra en la misma conducta también podrá ser denunciado por el afiliado ante la Superintendencia de Seguridad Social. En estos casos, la Superintendencia deberá remitir la denuncia a la Secretaría Regional Ministerial de Salud de la cual dependa el respectivo contralor.
+
+¿Si una persona se entera de que un profesional autorizado está haciendo mal uso de las licencias médicas puede denunciar de manera anónima? La Superintendencia de Seguridad Social mantendrá en su sitio web un sistema de denuncia anónima de mal uso de licencias médicas y un registro público de las sanciones aplicadas.  Los prestadores de salud deberán publicar el registro en sus sitios web y en algún lugar físico del establecimiento de salud. Las sanciones aplicadas se anotarán en el Registro Nacional de Prestadores Individuales de Salud.
+
+¿Qué tipos de licencia existen?
+
+- Enfermedad o accidente común.
+
+- Prórroga medicina preventiva.
+
+- Licencia maternal pre y posnatal.
+
+- Enfermedad grave del niño menor de un año.
+
+- Accidente del trabajo o trayecto.
+
+- Enfermedad profesional.
+
+- Patología del embarazo.
+
+- Licencia por Ley Sanna, que se otorga al padre o la madre para el cuidado de un hijo afectado por una condición grave de salud.
+
+¿Qué sucede si el trabajador presenta la licencia fuera de plazo? La Compin o la Isapre están habilitadas para rechazarla, salvo fuerza mayor o caso fortuito.
+
+¿Qué sucede si la licencia es rechazada? Si es afiliado a Fonasa y la licencia es rechazada por la Compin, se puede apelar a la Superintendencia de Seguridad Social. Si es un trabajador afiliado a una Isapre, puede apelar a la Compin que le corresponde al Servicio de Salud según el domicilio del trabajador. El plazo es de 15 días hábiles contados desde la recepción de la carta certificada en que la Isapre notifica el rechazo. Si la Isapre no cumple lo resuelto por la Compin, el cotizante puede recurrir a la Superintendencia de Seguridad Social.
+
+¿Qué ocurre si el profesional habilitado emite una o más licencias sin fundamentos? La Superintendencia de Seguridad Social, de oficio o a petición de la Secretaría Regional Ministerial de Salud, de la Comisión de Medicina Preventiva e Invalidez, del Fondo Nacional de Salud, de una Institución de Salud Previsional o de cualquier particular, podrá iniciar un procedimiento de investigación en caso de que el profesional habilitado emita una o más licencias con ausencia de fundamento médico.
+
+¿Qué sanciones puede aplicar la Superintendencia?
+
+- Suspensión hasta por 180 días de la facultad para otorgar licencias médicas del Registro Nacional de Prestadores Individuales de Salud, y una multa a beneficio fiscal de hasta 140 unidades tributarias mensuales. La multa podrá elevarse al doble en caso de constatarse que la emisión de licencias sin fundamento médico o sin una atención profesional asociada a su emisión ha sido reiterada.
+
+- Suspensión hasta por un año de la facultad para otorgar licencias médicas y una multa a beneficio fiscal de hasta 200 unidades tributarias mensuales, en caso de reincidencia dentro del período de cinco años contado desde la fecha de la notificación de la resolución que impuso la primera sanción.
+
+- Suspensión hasta por tres años de la facultad para otorgar licencias médicas y una multa a beneficio fiscal de hasta 350 unidades tributarias mensuales, en caso de segunda reincidencia dentro del período de cinco años contado desde la fecha de la notificación de la resolución que impuso la primera sanción.
+
+- Suspensión perpetua de la facultad para otorgar licencias médicas, cancelación del Registro Nacional de Prestadores Individuales de Salud, y una multa a beneficio fiscal de hasta 600 unidades tributarias mensuales, en caso de tercera reincidencia dentro del período de siete años contado desde la fecha de la notificación de la resolución que impuso la primera sanción.
+
+¿Qué sanción hay para el facultativo que haga un certificado falso de enfermedad o lesión con el fin de eximir a una persona de algún servicio público? Será castigado con reclusión menor en sus grados mínimo a medio (61 días a 540 días) y multa de seis a diez unidades tributarias mensuales.
+El que incurra en la falsificación de documentos en el otorgamiento, obtención o tramitación de licencias médicas o declaraciones de invalidez será sancionado con las penas de reclusión menor en sus grados mínimo a medio (61 días a tres años) y multa de 25 a 250 unidades tributarias mensuales. Si el que comete la conducta es un facultativo se castigará “con presidio menor en su grado medio a máximo (541 días a 5 años) y una multa de 300 a mil unidades tributarias mensuales”. Asimismo, el tribunal deberá aplicar la pena de inhabilitación especial temporal para ejercer la profesión de médico cirujano, matrona o cirujano dentista durante el tiempo de la condena. En caso de reincidencia, la pena privativa de libertad se aumentará en un grado (podría llegar a 10 años de presidio) y se aplicará multa de setenta y cinco a setecientas cincuenta unidades tributarias mensuales. Al que maliciosamente use los documentos falsos, se impondrá la pena de reclusión menor en sus grados mínimo a medio (61 días a tres años) y multa de 25 a 250 unidades tributarias mensuales. En caso de reincidencia, la sanción aumentará en un grado (hasta 5 años de presidio).
+
+¿Durante el proceso penal qué medida cautelar puede aplicarse a un profesional? Se permite al tribunal para decretar la suspensión de la facultad de emitir licencias médicas mientras dure la investigación o por el menor plazo que, fundadamente, determine.
