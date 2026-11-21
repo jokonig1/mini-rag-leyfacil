@@ -1,0 +1,35 @@
+{
+  "fecha": "20261121_122259",
+  "archivo_preguntas": "C:\\Users\\silva\\Documents\\mini-rag-leyfacil\\v0_cruda\\preguntas.csv",
+  "n_preguntas": 24,
+  "configuracion": {
+    "modo_busqueda": "hibrido",
+    "top_k_llm": 5,
+    "estrategia_fragmentacion": "qa",
+    "max_caracteres": 1200,
+    "n_fragmentos_indice": 428,
+    "embeddings": "intfloat/multilingual-e5-small",
+    "llm": "google/gemma-3n-e4b",
+    "juez_llm": true
+  },
+  "recuperacion": {
+    "recall@1": 0.8333,
+    "recall@3": 0.875,
+    "recall@5": 0.875,
+    "mrr": 0.8542
+  },
+  "generacion": {
+    "exactitud (respuestas correctas)": 0.875,
+    "f1_tokens_promedio": 0.2723,
+    "cita_correcta": 0.7917,
+    "tasa_sin_informacion": 0.125,
+    "tiempo_generacion_promedio_s": 38.95,
+    "puntaje_juez_promedio (parcial=0.5)": 0.9167,
+    "veredictos": {
+      "CORRECTA": 21,
+      "PARCIAL": 2,
+      "INCORRECTA": 1
+    },
+    "similitud_semantica_promedio": 0.8905
+  }
+}

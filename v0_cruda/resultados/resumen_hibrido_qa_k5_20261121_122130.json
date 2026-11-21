@@ -1,0 +1,21 @@
+{
+  "fecha": "20261121_122130",
+  "archivo_preguntas": "C:\\Users\\silva\\Documents\\mini-rag-leyfacil\\v0_cruda\\preguntas.csv",
+  "n_preguntas": 24,
+  "configuracion": {
+    "modo_busqueda": "hibrido",
+    "top_k_llm": 5,
+    "estrategia_fragmentacion": "qa",
+    "max_caracteres": 1200,
+    "n_fragmentos_indice": 428,
+    "embeddings": "intfloat/multilingual-e5-small",
+    "llm": null,
+    "juez_llm": null
+  },
+  "recuperacion": {
+    "recall@1": 0.8333,
+    "recall@3": 0.875,
+    "recall@5": 0.875,
+    "mrr": 0.8542
+  }
+}

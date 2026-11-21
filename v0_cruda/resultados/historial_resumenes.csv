@@ -1,0 +1,3 @@
+﻿fecha,modo_busqueda,top_k_llm,estrategia_fragmentacion,max_caracteres,n_fragmentos_indice,embeddings,llm,juez_llm,recall@1,recall@3,recall@5,mrr,exactitud (respuestas correctas),f1_tokens_promedio,cita_correcta,tasa_sin_informacion,tiempo_generacion_promedio_s,puntaje_juez_promedio (parcial=0.5),similitud_semantica_promedio
+20261121_122130,hibrido,5,qa,1200,428,intfloat/multilingual-e5-small,,,0.8333,0.875,0.875,0.8542,,,,,,,
+20261121_122259,hibrido,5,qa,1200,428,intfloat/multilingual-e5-small,google/gemma-3n-e4b,1.0,0.8333,0.875,0.875,0.8542,0.875,0.2723,0.7917,0.125,38.95,0.9167,0.8905
