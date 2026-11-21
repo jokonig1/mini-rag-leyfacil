@@ -2,7 +2,7 @@
 "Si mi jefe me pide quedarme después del horario, ¿cuántas horas extra me puede exigir en un solo día?","Un máximo de dos horas diarias.","horas-extraordinarias.txt"
 "¿Cuánto más me tienen que pagar por quedarme trabajando fuera de mi horario normal?","Un mínimo de 50% sobre el valor de la hora ordinaria.","horas-extraordinarias.txt"
 "¿Hasta cuándo es válido un acuerdo escrito para hacer tiempo adicional y se puede alargar?","Con una vigencia no superior a tres meses, pudiendo renovarse por acuerdo de las partes.","horas-extraordinarias.txt"
-"¿Cuántas horas a la semana puedo trabajar como máximo según la ley más reciente?","No debe exceder de 40 horas semanales.","reduccion-de-la-jornada-laboral-a-40-horas-semanales.txt"
+"¿Cuántas horas a la semana puedo trabajar como máximo según la ley más reciente?","No debe exceder de 40 horas semanales.","reduccion-de-la-jornada-laboral-a-40-horas-semanales.txt;jornada-especial-de-trabajo.txt"
 "Mi señora acaba de dar a luz, ¿cuántos días libres me corresponden como papá?","Cinco días con goce de sueldo.","permiso-laboral-por-nacimiento.txt"
 "Falleció mi hijo, ¿me dan días libres en el trabajo y cuántos?","10 días corridos de permiso pagado.","permiso-laboral-por-nacimiento.txt"
 "Me voy a casar el próximo mes, ¿la empresa me debe dar días libres?","Cinco días hábiles continuos, adicionales al feriado anual.","permiso-laboral-por-nacimiento.txt"
